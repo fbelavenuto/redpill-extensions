@@ -1,0 +1,19 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "r8168-4.4.180p.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/r8168/releases/r8168-4.4.180p.tgz",
+      "sha256": "7f52d7592f579263211732a43b6744578bc1d475541dbc701283fadc4a59cb6e",
+      "packed": true
+    }
+  ],
+
+  "kmods": {
+    "r8168.ko": ""
+  },
+
+  "scripts": {}
+
+}
