@@ -1,0 +1,20 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "alx-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/releases/alx-3.10.108.tgz",
+      "sha256": "6e5c1b1520844846f76251156a47c23aa8c0683f4647c15ff2d9f2b351aac5dc",
+      "packed": true
+    }
+  ],
+
+  "kmods": {
+    "mdio.ko": "",
+    "alx.ko": ""
+  },
+
+  "scripts": {}
+
+}

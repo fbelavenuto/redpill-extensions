@@ -1,0 +1,17 @@
+{
+  "id": "fbelavenuto.alx",
+  "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/rpext-index.json",
+  "info": {
+    "name": "alx",
+    "description": "Adds Qualcomm Atheros(R) AR816x/AR817x/QCA817x/Killer E220x Ethernet Network Driver Support",
+    "author_url": "https://github.com/fbelavenuto",
+    "packer_url": "https://github.com/fbelavenuto/redpill-extensions/alx",
+    "help_url": "https://github.com/fbelavenuto/redpill-extensions/alx"
+  },
+  "releases": {
+    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/releases/ds3615xs_25556.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/releases/ds3615xs_41222.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/releases/ds918p_25556.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/releases/ds918p_41890.json"
+  }
+}
