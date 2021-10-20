@@ -16,5 +16,5 @@ Driver versions for DSM 7.0 were compiled from vanilla linux source code, instab
 
 ## Installation
 
-Use `ext-manager.sh add 'https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/alx/master/rpext-index.json'` 
+Use `ext-manager.sh add 'https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/alx/rpext-index.json'` 
 to add the module to your image.
