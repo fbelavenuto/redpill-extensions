@@ -1,6 +1,5 @@
 {
   "mod_version": "v1",
-
   "files": [
     {
       "name": "alx-4.4.180p.tgz",
@@ -9,12 +8,9 @@
       "packed": true
     }
   ],
-
   "kmods": {
     "mdio.ko": "",
     "alx.ko": ""
   },
-
   "scripts": {}
-
 }

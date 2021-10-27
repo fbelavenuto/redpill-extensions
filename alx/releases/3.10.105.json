@@ -1,6 +1,5 @@
 {
   "mod_version": "v1",
-
   "files": [
     {
       "name": "alx-3.10.105.tgz",
@@ -9,12 +8,9 @@
       "packed": true
     }
   ],
-
   "kmods": {
     "mdio.ko": "",
     "alx.ko": ""
   },
-
   "scripts": {}
-
 }

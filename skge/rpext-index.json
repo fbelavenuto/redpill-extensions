@@ -9,11 +9,11 @@
     "help_url": "https://github.com/fbelavenuto/redpill-extensions/tree/main/skge"
   },
   "releases": {
-    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds3615xs_25556.json",
-    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds3615xs_41222.json",
-    "ds3615xs_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds3615xs_41222.json",
-    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds918p_25556.json",
-    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds918p_41890.json",
-    "ds918p_42280": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/ds918p_41890.json"
+    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/3.10.105.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/3.10.108.json",
+    "ds3615xs_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/3.10.108.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/4.4.59p.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/4.4.180p.json",
+    "ds918p_42280": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/4.4.180p.json"
   }
 }
