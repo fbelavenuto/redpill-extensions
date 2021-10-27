@@ -1,0 +1,19 @@
+{
+  "id": "fbelavenuto.e1000",
+  "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/rpext-index.json",
+  "info": {
+    "name": "e1000",
+    "description": "Adds Intel(R) PRO/1000 Gigabit Ethernet Network Driver Support",
+    "author_url": "https://github.com/fbelavenuto",
+    "packer_url": "https://github.com/fbelavenuto/redpill-extensions/tree/main/e1000",
+    "help_url": "https://github.com/fbelavenuto/redpill-extensions/tree/main/e1000"
+  },
+  "releases": {
+    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/3.10.105.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/3.10.108.json",
+    "ds3615xs_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/3.10.108.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/4.4.59p.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/4.4.180p.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/4.4.180p.json"
+  }
+}
