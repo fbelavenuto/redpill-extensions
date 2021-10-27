@@ -4,7 +4,7 @@
     {
       "name": "e1000-3.10.108.tgz",
       "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/e1000-3.10.108.tgz",
-      "sha256": "",
+      "sha256": "5344fe8d7c2606a0bf6e8c91f666f3a80e6f1691fc499e724ff12c8bc56bb18e",
       "packed": true
     }
   ],
