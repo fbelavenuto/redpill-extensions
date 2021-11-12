@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "b44-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/b44/b44-3.10.108.tgz",
+      "sha256": "14a0a787b75a496089e6ed720e94616993f7655f4432e0d187d284e5ee05dc75",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "b44.ko": ""
+  },
+  "scripts": {}
+}
