@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "e1000-4.4.180p-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/e1000-4.4.180p-broadwellnk.tgz",
+      "sha256": "e6cf2b2770336d1f087f091747f6eeb5da9df94fbb3264c44ddd8900a071f8de",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "e1000.ko": ""
+  },
+  "scripts": {}
+}

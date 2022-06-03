@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "skge-4.4.180p-denverson.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/skge-4.4.180p-denverson.tgz",
+      "sha256": "88e88ee6f9b0355d3ca998fc4ded1a9e50f05f0213cfa8ddc55b1867b3b1fbc6",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "skge.ko": ""
+  },
+  "scripts": {}
+}

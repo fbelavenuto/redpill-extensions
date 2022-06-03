@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "e1000-4.4.180p-denverton.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/e1000-4.4.180p-denverton.tgz",
+      "sha256": "f3f619328df814e4330fc72179512ffb22da0547487a26e4b94f1f206ecb328a",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "e1000.ko": ""
+  },
+  "scripts": {}
+}

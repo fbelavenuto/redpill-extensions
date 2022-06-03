@@ -1,0 +1,16 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "alx-4.4.180p-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/alx/releases/alx-4.4.180p-broadwellnk.tgz",
+      "sha256": "10d340e3f15aedc97a9cc8716c2a835a1d87d14db37c765bcea04b46e8ebd6d7",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "mdio.ko": "",
+    "alx.ko": ""
+  },
+  "scripts": {}
+}

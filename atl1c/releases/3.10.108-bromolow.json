@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "atl1c-3.10.108-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/atl1c-3.10.108-bromolow.tgz",
+      "sha256": "a0cec3a9373a519a0a36de85f777ce3ffa891874445bb50d28025f8b5755c126",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "atl1c.ko": ""
+  },
+  "scripts": {}
+}

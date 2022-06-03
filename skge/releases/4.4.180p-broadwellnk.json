@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "skge-4.4.180p-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/skge-4.4.180p-broadwellnk.tgz",
+      "sha256": "c88f9f1ddbda39cbe3ce9fb85e11831747484f114fe48c5e7e17f11f596c9ba0",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "skge.ko": ""
+  },
+  "scripts": {}
+}

@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "r8168-4.4.180p-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/r8168/releases/r8168-4.4.180p-apollolake.tgz",
+      "sha256": "bbeebb5aa40cdb0b4a4e4d8904a0ee0340cf74bde2eb64f372a1df86e93ded7a",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "r8168.ko": ""
+  },
+  "scripts": {}
+}

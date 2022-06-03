@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "r8168-4.4.180p-denverson.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/r8168/releases/r8168-4.4.180p-denverson.tgz",
+      "sha256": "ce7e552ce176702a9a81982f35e498a33dc0dcafe68aae639c7489ae587743d2",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "r8168.ko": ""
+  },
+  "scripts": {}
+}

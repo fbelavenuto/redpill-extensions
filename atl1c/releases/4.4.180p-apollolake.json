@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "atl1c-4.4.180p-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/atl1c-4.4.180p-apollolake.tgz",
+      "sha256": "cf55e6720eadd27777b05581b68cf8b608c2e21dca73b5b50a6351fc02787819",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "atl1c.ko": ""
+  },
+  "scripts": {}
+}

@@ -9,11 +9,19 @@
     "help_url": "https://github.com/fbelavenuto/redpill-extensions/tree/main/atl1c"
   },
   "releases": {
-    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.105.json",
-    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.108.json",
-    "ds3615xs_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.108.json",
-    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.59p.json",
-    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p.json",
-    "ds918p_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p.json"
+    "ds3615xs_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.105-bromolow.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.108-bromolow.json",
+    "ds3615xs_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/3.10.108-bromolow.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.59p-apollolake.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-apollolake.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-apollolake.json",
+    "ds918p_42621": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-apollolake.json",
+    "ds918p_42661": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-apollolake.json",
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-broadwellnk.json",
+    "ds3622xsp_42621": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-broadwellnk.json",
+    "ds3622xsp_42661": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-broadwellnk.json",
+    "dva3221_42218": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-denverton.json",
+    "dva3221_42621": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-denverton.json",
+    "dva3221_42661": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/4.4.180p-denverton.json"
   }
 }

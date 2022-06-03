@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "atl1c-4.4.180p-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/atl1c-4.4.180p-broadwellnk.tgz",
+      "sha256": "186730117b334942ba62937bb4e00f6d0eaaf7fe42a17821496198c1138228b8",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "atl1c.ko": ""
+  },
+  "scripts": {}
+}

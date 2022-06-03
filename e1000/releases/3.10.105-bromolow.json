@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "e1000-3.10.105-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/e1000-3.10.105-bromolow.tgz",
+      "sha256": "aeba83c1324ce0f50ed6d031640c71474491638b12b5da193b44b7547e3301ce",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "e1000.ko": ""
+  },
+  "scripts": {}
+}

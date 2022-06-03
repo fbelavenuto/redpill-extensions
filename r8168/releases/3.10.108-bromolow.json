@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "r8168-3.10.108-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/r8168/releases/r8168-3.10.108-bromolow.tgz",
+      "sha256": "8f86eb69723162daf1945bd4e89c5eb609b1d4fd7e90252ccd5d9b9aadd5393f",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "r8168.ko": ""
+  },
+  "scripts": {}
+}

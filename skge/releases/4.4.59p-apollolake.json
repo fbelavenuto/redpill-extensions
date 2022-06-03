@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "skge-4.4.59p-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/skge-4.4.59p-apollolake.tgz",
+      "sha256": "992647fcdc60f6d5fb4c23c3047dc87355249c43f39a6db85336960c45799434",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "skge.ko": ""
+  },
+  "scripts": {}
+}

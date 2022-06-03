@@ -1,0 +1,16 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "alx-4.4.180p-denverson.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/alx/releases/alx-4.4.180p-denverson.tgz",
+      "sha256": "7b6aba1bd46b5c632a9758f505f3361a5b545ae09f993ae0a15b81b4a93d5d82",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "mdio.ko": "",
+    "alx.ko": ""
+  },
+  "scripts": {}
+}

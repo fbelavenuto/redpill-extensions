@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "e1000-4.4.180p-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/e1000/releases/e1000-4.4.180p-apollolake.tgz",
+      "sha256": "0e146993f23a08f5ccb0584e3978d5aa72db48c106be8fefc3bfef28f6d11d69",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "e1000.ko": ""
+  },
+  "scripts": {}
+}

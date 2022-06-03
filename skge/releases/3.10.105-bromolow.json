@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "skge-3.10.105-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/skge/releases/skge-3.10.105-bromolow.tgz",
+      "sha256": "9b2c67e7af8a6ac63314d7cee0d89271db0fd851980e1a8f920c81528a3e32b7",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "skge.ko": ""
+  },
+  "scripts": {}
+}

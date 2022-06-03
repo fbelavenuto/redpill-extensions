@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "atl1c-4.4.180p-denverson.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/atl1c/releases/atl1c-4.4.180p-denverson.tgz",
+      "sha256": "c1a32fbcbccf24a943869cb49ab27177aafaedfd3ad8aad6069d6b58af133395",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "atl1c.ko": ""
+  },
+  "scripts": {}
+}

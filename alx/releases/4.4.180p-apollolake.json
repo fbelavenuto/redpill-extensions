@@ -1,0 +1,16 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "alx-4.4.180p-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/alx/releases/alx-4.4.180p-apollolake.tgz",
+      "sha256": "737fd07c83f5550655b69d26aa71dc042d30a995e19f59a4cd7003f88f3df84b",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "mdio.ko": "",
+    "alx.ko": ""
+  },
+  "scripts": {}
+}

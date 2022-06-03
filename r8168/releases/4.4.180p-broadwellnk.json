@@ -1,0 +1,15 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "r8168-4.4.180p-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/r8168/releases/r8168-4.4.180p-broadwellnk.tgz",
+      "sha256": "673e51e82b10620f41bb635cf46441d9dac1a1c8552d71fd91b718ae6f394ced",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "r8168.ko": ""
+  },
+  "scripts": {}
+}

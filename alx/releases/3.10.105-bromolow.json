@@ -1,0 +1,16 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "alx-3.10.105-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/fbelavenuto/redpill-extensions/main/alx/releases/alx-3.10.105-bromolow.tgz",
+      "sha256": "aa040cad743b247f0baad23a51b80a4765c8c6a94412d7f9b3c876e7e1dd4bdc",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "mdio.ko": "",
+    "alx.ko": ""
+  },
+  "scripts": {}
+}
